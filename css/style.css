@@ -66,7 +66,7 @@ button img{
     cursor: pointer;
 }
 .banner{
-    background-image: url(images/catálogo.png);
+    background-image: url(/images/catálogo.png);
     background-position: center;
     background-size: cover;
     padding-top: 80px;
@@ -135,14 +135,14 @@ button img{
 .area-1--img1{
     height: 300px;
     display: none;
-    background-image: url(images/Verdinho2.png);
+    background-image: url(/images/Verdinho2.png);
     background-size: cover;
     background-position: center;
 }
 .area-1--img2{
     grid-column: 2/3;
     grid-row: 1/3;
-    background-image: url(images/Produtos.png);
+    background-image: url(/images/Produtos.png);
     background-size: cover;
     background-position: center;
 }
@@ -188,14 +188,14 @@ button img{
 }
 .area-2--img1{
     height: 300px;
-    background-image: url(images/mulher-passando-produto-em-seus-pes.webp);
+    background-image: url(/images/mulher-passando-produto-em-seus-pes.webp);
     background-size: cover;
     background-position: center;
 }
 .area-2--img2{
     grid-column: 1/2;
     grid-row: 1/3;
-    background-image: url(images/Intensoo.png);
+    background-image: url(/images/Intensoo.png);
     background-size: cover;
     background-position: center;
 }
@@ -242,7 +242,7 @@ button img{
 .area-3--img2{
     grid-column: 2/3;
     grid-row: 1/3;
-    background-image: url(images/Perfumes.png);
+    background-image: url(/images/Perfumes.png);
     background-size: cover;
     background-position: center;
 }
@@ -287,14 +287,14 @@ button img{
 .area-4--img2{
     grid-column: 2/4;
     grid-row: 1/3;
-    background-image: url(images/bg3.jpg);
+    background-image: url(/images/bg3.jpg);
     background-size: cover;
     background-position: center;
 }
 /* área 5 */
 .area-5{
     display: none;
-    background-image: url(images/bg4.jpg);
+    background-image: url(/images/bg4.jpg);
     background-size: cover;
     background-position: center;
     height: 600px;
